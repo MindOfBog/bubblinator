@@ -20,3 +20,5 @@ A tool for the mainline LBP games, that can generate a PLAN file containing priz
 
 ### Thanks
 Thanks [ennuo](https://github.com/ennuo) for creating [Toolkit/CWLib](https://github.com/ennuo/toolkit) it is used by this tool to read and create files.
+
+<img src="https://github.com/MindOfBog/bubblinator/blob/main/images/tool.png?raw=true" height=256 /> <img src="https://github.com/MindOfBog/bubblinator/blob/main/images/item.png?raw=true" height=256 /> <img src="https://github.com/MindOfBog/bubblinator/blob/main/images/bubbles.png?raw=true" height=256 />
